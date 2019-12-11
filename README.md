@@ -1,8 +1,8 @@
 ---
 description: >-
-  Here you’ll find all the detailed documentation for Quantower features, learn
-  how to create and customize your Workspace, understand all settings, get to
-  know advanced features, and more
+  Here you’ll find all the detailed documentation for OptimusFLOW features,
+  learn how to create and customize your Workspace, understand all settings, get
+  to know advanced features, and more
 ---
 
 # Welcome to OptimusFLOW Help

@@ -93,7 +93,7 @@
   * [Exchange times](miscellaneous-panels/exchange-times.md)
   * [Quote Board](miscellaneous-panels/quote-board.md)
   * [Excel and RTD function](miscellaneous-panels/excel-rtd-trading.md)
-* [Quantower Algo](quantower-algo/README.md)
+* [Algo](quantower-algo/README.md)
   * [Introduction](quantower-algo/introduction.md)
   * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)
   * [Simple Indicator](quantower-algo/simple-indicator.md)
