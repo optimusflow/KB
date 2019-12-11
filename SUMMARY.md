@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Welcome to Quantower Help](README.md)
+* [Welcome to OptimusFLOW Help](README.md)
 * [Getting started](getting-started/README.md)
   * [What's new](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
-  * [Quantower Account](getting-started/quantower-account.md)
   * [Platform update](getting-started/application-updates.md)
   * [Control center](getting-started/control-center.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
