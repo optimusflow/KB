@@ -7,7 +7,7 @@ description: >-
 
 # TPO Profile Chart
 
-{% embed url="https://youtu.be/BcDCx0tzlRA" %}
+{% embed url="https://youtu.be/BcDCx0tzlRA" caption="" %}
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
@@ -59,8 +59,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
 * **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.
-
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a ****[**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **\*\*\[**chart style**\]\(chart/chart-types/\#chart-types-and-styles\)**: **\_**Bar, Candle, Line, Area, Dotted Line, Quantower style\*\*\_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 
@@ -108,9 +107,7 @@ To set the time of the necessary session, go to the **TPO Chart settings -&gt; V
 
 ## Additional settings of TPO Profile
 
-Right-click on the chart area -&gt; **Settings** to open the general settings of the TPO Chart panel. 
+Right-click on the chart area -&gt; **Settings** to open the general settings of the TPO Chart panel.
 
 ![General settings of TPO Profile Chart in Quantower platform](../.gitbook/assets/tpo-chart-settings.png)
-
-
 
