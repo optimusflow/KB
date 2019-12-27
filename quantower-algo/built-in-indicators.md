@@ -76,7 +76,7 @@ protected override void OnInit()
 }
 ```
 
-Everything is ready to use this indicator in our calculations. After receiving new quotes it will be calculated automatically. You can access its values via [**GetValue** ](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_)method:
+Everything is ready to use this indicator in our calculations. After receiving new quotes it will be calculated automatically. You can access its values via [**GetValue** ](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_)method:
 
 ```csharp
 /// <summary>
@@ -92,7 +92,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_) _\*\*_method:
+In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_) _\*\*_method:
 
 ```csharp
 /// <summary>
