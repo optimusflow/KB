@@ -11,7 +11,7 @@ Connections are integrations with third-party providers that supply various data
 ![Launch the Connections Manager to select necessary connection](../.gitbook/assets/connections-manager.png)
 
 {% hint style="success" %}
-Each integration is developed and tested by Quantower specialists and guarantees the stability and security of all transferred information.
+Each integration is developed and tested by OptimusFLOW specialists and guarantees the stability and security of all transferred information.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=7Sp2e\_N-U0E" caption="How to use Connections manager" %}
