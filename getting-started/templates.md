@@ -6,7 +6,7 @@ description: >-
 
 # Templates
 
-Due to the wide list of features, most panels in Quantower terminal have a huge list of customization possibilities. The more powerful panel is — more settings it has. This allows any user to tune each functionality by its own and sometimes this process can take a lot of time to complete.
+Due to the wide list of features, most panels in OptimusFLOW terminal have a huge list of customization possibilities. The more powerful panel is — more settings it has. This allows any user to tune each functionality by its own and sometimes this process can take a lot of time to complete.
 
 In order to save your work on workspace customization, we have developed a _**“Templates”**_ functionality. It helps you to save your customizations in special objects — templates — and instantiate them later, keeping all of the applied settings.
 
@@ -29,6 +29,6 @@ All of the created templates are stored in Control center sidebar, under the _**
 If you want to **edit** the template name or **delete** it from your terminal — use the context menu on it. Each Template stores all of the settings data, including sizes, coloring, internal elements visibility, a predefined symbol of account values, additional specific settings etc. In other words: all that you can customize + more.
 
 {% hint style="success" %}
-You can **share your templates** with other Quantower traders by sharing the template files with them. Template files can be found in “Quantower -&gt; Settings -&gt; Templates” folder.
+You can **share your templates** with other OptimusFLOW traders by sharing the template files with them. Template files can be found in “OptimusFLOW -&gt; Settings -&gt; Templates” folder.
 {% endhint %}
 

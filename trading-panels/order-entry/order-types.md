@@ -11,7 +11,7 @@ Orders can be divided into 2 groups by side:
 
 ![Order&apos;s side - Buy and Sell](../../.gitbook/assets/order-side.png)
 
-Quantower supports the following order types:
+OptimusFLOW supports the following order types:
 
 * Market
 * Limit

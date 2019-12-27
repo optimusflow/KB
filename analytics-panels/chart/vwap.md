@@ -39,7 +39,7 @@ By clicking on the "**Gear"** icon, additional settings will open.
 
 **1. Switch between different VWAPs** and set the settings for each of them
 
-Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
+OptimusFLOW platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
 
 **2.** Set the **Main Settings** for the VWAP line:
 
@@ -67,7 +67,7 @@ VWAP has numerous application in the trading world. It is helpful for both insti
 
 For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES \(e-mini S&P500\) futures on 5-minute chart with an hourly VWAP.
 
-![Trading with VWAP in Quantower platform](../../.gitbook/assets/vwap-trading.png)
+![Trading with VWAP in OptimusFLOW platform](../../.gitbook/assets/vwap-trading.png)
 
 An important point in this tactic is that the distance between the VWAP value and the closing price should be significant.
 

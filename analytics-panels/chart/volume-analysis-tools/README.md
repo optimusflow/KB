@@ -7,7 +7,7 @@ description: >-
 
 # Volume Analysis Tools \| Volume Profiles \| Footprint chart \| VWAP
 
-Quantower trading platform provides [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
+OptimusFLOW trading platform provides [**Volume analysis tools**](https://www.OptimusFLOW.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
 {% embed url="https://youtu.be/duOmadSFN4Y" caption="" %}
 

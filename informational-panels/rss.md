@@ -2,7 +2,7 @@
 
 ## First start
 
-RSS panel was developed in order to allow traders watch the news feeds right inside the Quantower trading application. This panel can be easily bond with others and also can be modified and saved as Template for further usage.
+RSS panel was developed in order to allow traders watch the news feeds right inside the OptimusFLOW trading application. This panel can be easily bond with others and also can be modified and saved as Template for further usage.
 
 ![RSS first start screen](../.gitbook/assets/rss_start.png)
 

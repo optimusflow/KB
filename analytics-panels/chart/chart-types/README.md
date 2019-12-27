@@ -6,13 +6,13 @@ description: >-
 
 # Chart types
 
-Quantower offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
+OptimusFLOW offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
 
 ![Switch between different time frames in one click](../../../.gitbook/assets/chart-time-selector.png)
 
 ## Chart types and styles
 
-Quantower provides **9 chart types**:
+OptimusFLOW provides **9 chart types**:
 
 * Tick chart
 * [Time chart](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/time-aggregation)
@@ -24,7 +24,7 @@ Quantower provides **9 chart types**:
 * [Points & Figures](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/points-and-figures)
 * [Volume](volume-bars.md)
 
-![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)
+![Chart types in OptimusFLOW](../../../.gitbook/assets/period-selector.png)
 
 Charts can also be represented in **6 different styles**:
 
@@ -33,7 +33,7 @@ Charts can also be represented in **6 different styles**:
 * Line
 * Dotted Line
 * Area
-* Quantower
+* OptimusFLOW
 
-![Chart styles in Quantower &#x2014; Candle, Bar, Line, Dotted Line, Area, Quantower style](../../../.gitbook/assets/chart-styles-1.png)
+![Chart styles in OptimusFLOW &#x2014; Candle, Bar, Line, Dotted Line, Area, OptimusFLOW style](../../../.gitbook/assets/chart-styles-1.png)
 

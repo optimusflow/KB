@@ -110,7 +110,7 @@ SetValue(sum / Period);
 That is all, that was easy. As a conclusion take a look at all source code
 
 ```csharp
-// Copyright QUANTOWER LLC. © 2017-2018. All rights reserved.
+// Copyright OptimusFLOW LLC. © 2017-2018. All rights reserved.
 using System;
 using System.Drawing;
 using TradingPlatform.BusinessLayer;

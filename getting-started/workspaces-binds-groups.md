@@ -44,7 +44,7 @@ This menu usually consists of following functions:
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
 * **Duplicate panel**. Just creates one more totally similar panel.
 * \*\*\*\*[**Save as template**](https://help.optimusflow.qtower.app/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
-* \*\*\*\*[**Save as default**](https://help.optimusflow.qtower.app/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
+* \*\*\*\*[**Save as default**](https://help.optimusflow.qtower.app/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and OptimusFLOW will store your current panel’s settings and will apply them for each newly opened panel of this type.
 * **Help**. If you have questions about working with the panel or specific functionality, click on this link and you will immediately redirect to the documentation for this panel.
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
@@ -88,7 +88,7 @@ Each Bind acts as a single panel so when you resize it, it proportionally resize
 In order to edit the contents of the Bind, you should unbind it using its context menu option “Unbind”.
 
 {% hint style="info" %}
-Please notice that not all elements of Quantower can be binded. This feature doesn’t allow to combine screens \(like Connections manager, settings\) and some non-standard panels: Order entry, FXCell. This restriction was made because of impossibility to resize the Screens while binds should contain only the resizable items.
+Please notice that not all elements of OptimusFLOW can be binded. This feature doesn’t allow to combine screens \(like Connections manager, settings\) and some non-standard panels: Order entry, FXCell. This restriction was made because of impossibility to resize the Screens while binds should contain only the resizable items.
 {% endhint %}
 
 ## Workspaces
@@ -97,11 +97,11 @@ The highest level of trading area organization — is a Workspace. This is the m
 
 Because of its nature \(the global grouping tool\), Workspaces manager is situated on Control center panel and can be invoked by clicking the corresponding button. [More about creating, managing and switching the workspaces](control-center.md#workspaces-manager) can be found in Control center section.
 
-As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**Quantower -&gt; Settings -&gt; Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.
+As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**OptimusFLOW -&gt; Settings -&gt; Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.
 
 {% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="How to create and save your custom workspace" %}
 
 {% hint style="success" %}
-Quantower auto-saves each workspace into its local file every 5 mins, in order to keep them safe.
+OptimusFLOW auto-saves each workspace into its local file every 5 mins, in order to keep them safe.
 {% endhint %}
 

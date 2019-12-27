@@ -11,7 +11,7 @@ description: >-
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
-![TPO Profile Chart \(Market Profile\) general view in Quantower platform](../.gitbook/assets/tpo-profile-chart-general-view.png)
+![TPO Profile Chart \(Market Profile\) general view in OptimusFLOW platform](../.gitbook/assets/tpo-profile-chart-general-view.png)
 
 To open new TPO panel, go to _**Main menu**_ \(Logo icon\) and select _**TPO Chart**_ in the Analytics section.
 
@@ -19,7 +19,7 @@ To open new TPO panel, go to _**Main menu**_ \(Logo icon\) and select _**TPO Cha
 
 ### Key Elements of TPO Profile Chart
 
-![Main Elements of TPO Profile Chart \(a.k.a. Market Profile\) in Quantower](../.gitbook/assets/tpocontrols.png)
+![Main Elements of TPO Profile Chart \(a.k.a. Market Profile\) in OptimusFLOW](../.gitbook/assets/tpocontrols.png)
 
 **Point of Control \(POC\)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
 
@@ -39,7 +39,7 @@ There are three main controls on the top toolbar of TPO chart panel:
 
 ### Aggregation of TPO Profile Chart
 
-The base element of the TPO chart is letters that are used to build the market profile structure. Each letter initially represents a half-hour period. Quantower offers to specify in the aggregation settings any values on the basis of which the profile will be built. For example, a daily profile of 30-minute bars is considered as a “standard”. But you can set a lower value of “**Build From**” and the profile will be more granular. Conversely, set the value higher and the shape of the profile will be smoother.
+The base element of the TPO chart is letters that are used to build the market profile structure. Each letter initially represents a half-hour period. OptimusFLOW offers to specify in the aggregation settings any values on the basis of which the profile will be built. For example, a daily profile of 30-minute bars is considered as a “standard”. But you can set a lower value of “**Build From**” and the profile will be more granular. Conversely, set the value higher and the shape of the profile will be smoother.
 
 ![](../.gitbook/assets/custom-period.gif)
 
@@ -59,7 +59,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
 * **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **\*\*\[**chart style**\]\(chart/chart-types/\#chart-types-and-styles\)**: **\_**Bar, Candle, Line, Area, Dotted Line, Quantower style\*\*\_.
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **\*\*\[**chart style**\]\(chart/chart-types/\#chart-types-and-styles\)**: **\_**Bar, Candle, Line, Area, Dotted Line, OptimusFLOW style\*\*\_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 
@@ -109,5 +109,5 @@ To set the time of the necessary session, go to the **TPO Chart settings -&gt; V
 
 Right-click on the chart area -&gt; **Settings** to open the general settings of the TPO Chart panel.
 
-![General settings of TPO Profile Chart in Quantower platform](../.gitbook/assets/tpo-chart-settings.png)
+![General settings of TPO Profile Chart in OptimusFLOW platform](../.gitbook/assets/tpo-chart-settings.png)
 

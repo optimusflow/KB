@@ -13,7 +13,7 @@ description: >-
 
 Time & Sales panel keeps a running record of trades for selected instruments displayed in chronological order. Each new entry is added to the top of the list, causing the panel screen to auto-scroll downward.
 
-![Time &amp; Sales panel in Quantower shows all executed trades](../.gitbook/assets/time-and-sales.gif)
+![Time &amp; Sales panel in OptimusFLOW shows all executed trades](../.gitbook/assets/time-and-sales.gif)
 
 ## Real-time and Historical modes
 
@@ -23,7 +23,7 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 ## General settings
 
-The basic settings in Time & Sales are similar to the parameters of most panels in Quantower — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.
+The basic settings in Time & Sales are similar to the parameters of most panels in OptimusFLOW — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.
 
 ![General settings of Time &amp; Sales panel](../.gitbook/assets/time-and-sales-general-settings.png)
 

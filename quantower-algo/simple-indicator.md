@@ -1,22 +1,22 @@
 ---
-description: In this topic we will show you how simple is writing indicators in Quantower
+description: In this topic we will show you how simple is writing indicators in OptimusFLOW
 ---
 
 # Simple Indicator
 
 {% hint style="info" %}
-We will use Quantower Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or Quantower Algo extension installed you can read [How to install Quantower Algo](installing-visual-studio.md) manual.
+We will use OptimusFLOW Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or OptimusFLOW Algo extension installed you can read [How to install OptimusFLOW Algo](installing-visual-studio.md) manual.
 {% endhint %}
 
 ## So, what is indicator in general?
 
-An indicator is mathematical calculations based on a symbol's price or volume. The result is used for displaying on the chart and to help trader make a correct decision. From technical point view Indicator in Quantower is a set of lines with buffers. Each element of the buffer is assigned to a historical bar or tick on the chart. All you need is to make a required calculations and put the result into this buffer.
+An indicator is mathematical calculations based on a symbol's price or volume. The result is used for displaying on the chart and to help trader make a correct decision. From technical point view Indicator in OptimusFLOW is a set of lines with buffers. Each element of the buffer is assigned to a historical bar or tick on the chart. All you need is to make a required calculations and put the result into this buffer.
 
 Sounds not very difficult, doesn't it? Let's start! As for example we will write a code that will implement algorithm of Simple Moving Average indicator.
 
-Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Find "**Quantower Algo**" group and select "**Indicator**" template:
+Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Find "**OptimusFLOW Algo**" group and select "**Indicator**" template:
 
-At first, you need to create a new project for the indicator. Quantower Algo provides you predefined templates for an empty indicator as well as a few examples of real indicators with source code:
+At first, you need to create a new project for the indicator. OptimusFLOW Algo provides you predefined templates for an empty indicator as well as a few examples of real indicators with source code:
 
 ![New Project window](../.gitbook/assets/new-project.png)
 
@@ -51,7 +51,7 @@ public SimpleIndicator()
 
 ### Getting data
 
-The **"OnUpdate"** method will be called each time on history changing - here we need to add our calculations. Most of the indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from a current bar or from previous bars if it required.
+The **"OnUpdate"** method will be called each time on history changing - here we need to add our calculations. Most of the indicators are using prices or volumes in their algorithms. OptimusFLOW API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from a current bar or from previous bars if it required.
 
 Common method [**GetPrice**](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetPrice_TradingPlatform_BusinessLayer_PriceType_System_Int32_) allows to retrieve all type of the data:
 
@@ -118,7 +118,7 @@ As you can see, we use only Close prices for calculations and hard code Period v
 
 ### Build
 
-Indicator is ready to use in trading platform. We need to compile it - use "_**Build -&gt; Build Solution**_" in the main menu or hot key **F6**. Quantower Algo extension will automatically copy your indicator to assigned Quantower trading platform and you will see it in the "Indicators" lookup on the chart:
+Indicator is ready to use in trading platform. We need to compile it - use "_**Build -&gt; Build Solution**_" in the main menu or hot key **F6**. OptimusFLOW Algo extension will automatically copy your indicator to assigned OptimusFLOW trading platform and you will see it in the "Indicators" lookup on the chart:
 
 ![You can see your indicator in Indicator Lookup](../.gitbook/assets/indicator-in-lookup.png)
 

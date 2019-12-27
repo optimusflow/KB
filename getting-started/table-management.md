@@ -77,14 +77,14 @@ To apply the grouping just right-click on table body and find an option “_**Gr
 
 ## Table actions
 
-This feature allows you to setup certain behavior on some data change in the table. Currently, Quantower tables support four types of actions:
+This feature allows you to setup certain behavior on some data change in the table. Currently, OptimusFLOW tables support four types of actions:
 
 * Show message
 * Play sound
 * Color row
 * Color cell
 
-![Table actions per any Quantower table-based panel](../.gitbook/assets/tableactions.png)
+![Table actions per any OptimusFLOW table-based panel](../.gitbook/assets/tableactions.png)
 
 The Table actions functionality can be found under the panel’s context menu option “Setup Actions” and once launched, it opens an “Actions screen”, where you can manage your Actions. The process of Action creation is not complicated.
 

@@ -30,7 +30,7 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 3. Customize data visualization
 4. Use advanced settings \(gear icon\) for more detailed chart customization.
 
-![Here is how you can activate Cluster chart in Quantower platform](../../../.gitbook/assets/how-to-enable-cluster-chart.gif)
+![Here is how you can activate Cluster chart in OptimusFLOW platform](../../../.gitbook/assets/how-to-enable-cluster-chart.gif)
 
 {% hint style="info" %}
 For more efficient analysis with cluster chart, you can display two different data types on one bar at once.

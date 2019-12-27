@@ -7,7 +7,7 @@ description: >-
 
 # Connection to Rithmic
 
-To connect Quantower to a broker that uses Rithmic technology, it is sufficient to have \(or create a new\) account.
+To connect OptimusFLOW to a broker that uses Rithmic technology, it is sufficient to have \(or create a new\) account.
 
 ## Existed Accounts
 

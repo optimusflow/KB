@@ -12,7 +12,7 @@ Testing of trading strategies is one of the most important and necessary steps f
 
 ![Launch History Player ](../.gitbook/assets/screenshot_27.png)
 
-Therefore Quantower provides the **History Player panel** for simple manual backtesting of any trading strategy.
+Therefore OptimusFLOW provides the **History Player panel** for simple manual backtesting of any trading strategy.
 
 ![General view of History Player panel ](../.gitbook/assets/history-player-general.png)
 
@@ -36,7 +36,7 @@ When the testing is started you can open all the necessary panels for testing by
 
 ![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
 
-In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
+In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.OptimusFLOW.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
 ## General and instruments settings
 

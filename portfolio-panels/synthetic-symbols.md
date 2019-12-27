@@ -8,9 +8,9 @@
 
 Spread trading is a strategy that simultaneously creates a long and short position for different assets, in order to reduce the risk of the entire portfolio. Each side of the spread is called a "Leg", which is necessary to set the weighting factor for, i.e. the number of contracts for buy or sell. A market-neutral position, which does not depend on whether the market will go up or down is obtained with a proper selection of these coefficients.
 
-![General view of Synthetic Symbols in Quantower platform](../.gitbook/assets/synthetic-symbols.png)
+![General view of Synthetic Symbols in OptimusFLOW platform](../.gitbook/assets/synthetic-symbols.png)
 
-## How to Create a Custom Spread in Quantower?
+## How to Create a Custom Spread in OptimusFLOW?
 
 For example, let's build a spread between different brokers within the same asset and see if there is a difference in prices. This is a classic example of Broker arbitrage.
 

@@ -4,7 +4,7 @@
 
 Renko chart is completely time-independent, based on price movement only and help filter out the noise that can occur on other chart types. Renko is built from bricks, which are created only when the price exceeds the body of the previous brick by a certain size, which is set by the trader in the chart parameters.
 
-![General view of Renko chart type in Quantower](../../../.gitbook/assets/renko-chart-general-view.png)
+![General view of Renko chart type in OptimusFLOW](../../../.gitbook/assets/renko-chart-general-view.png)
 
 ## Renko chart calculation
 
@@ -41,17 +41,17 @@ In the Renko chart settings, you can choose one of several styles based on which
 
 ![Medium Renko chart construction](../../../.gitbook/assets/median-renko_construction.png)
 
-![Medium Renko in Quantower](../../../.gitbook/assets/median-renko_quantower.png)
+![Medium Renko in OptimusFLOW](../../../.gitbook/assets/median-renko_quantower.png)
 
 **Geometric Renko** will give you very smooth reversals, and the charts are smooth out more than with Median Renko. One special property of these Renko form is, that when using an _extension and inversion percentage of 12.5%_, the slope of up-bricks will be 45° and for down bricks -45°
 
 ![Geometric Renko chart construction](../../../.gitbook/assets/geometric-renko_construction.png)
 
-![Geometric Renko in Quantower](../../../.gitbook/assets/geometric-renko-quantower.png)
+![Geometric Renko in OptimusFLOW](../../../.gitbook/assets/geometric-renko-quantower.png)
 
 **Turbo Renko** smooths out the majority of pullbacks and only shows high probability reversals. Turbo Renko is using the _extension 12%_ of the brick and the _inversion of 100%._ Price has to reverse by a complete brick to form a reversal, illustrated as the dashed bricks.
 
 ![Turbo Renko chart construction](../../../.gitbook/assets/turbo-renko_construction.png)
 
-![Turbo Renko in Quantower](../../../.gitbook/assets/turbo-renko_quantower.png)
+![Turbo Renko in OptimusFLOW](../../../.gitbook/assets/turbo-renko_quantower.png)
 

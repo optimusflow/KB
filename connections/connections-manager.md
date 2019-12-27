@@ -33,6 +33,6 @@ Once connected, info column will contain the data about ping and current connect
 ## Multi-connect
 
 {% hint style="info" %}
-Quantower supports multiple connections simultaneously, but this function available for Premium License only
+OptimusFLOW supports multiple connections simultaneously, but this function available for Premium License only
 {% endhint %}
 

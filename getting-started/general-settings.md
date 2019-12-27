@@ -1,12 +1,12 @@
 ---
 description: >-
   General settings — is a screen, where you can set up the most common behavior
-  of the whole Quantower application.
+  of the whole OptimusFLOW application.
 ---
 
 # General settings
 
-General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. It is logically grouped into several tabs:
+General settings — is a screen, where you can set up the most common behavior of the whole OptimusFLOW application. It is logically grouped into several tabs:
 
 * [**General**](general-settings.md#general)\*\*\*\*
 * \*\*\*\*[**Control Center**](general-settings.md#control-center)\*\*\*\*
@@ -23,12 +23,12 @@ General settings are backed up automatically every 5 minutes by default and you 
 
 ## General settings
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/general-settings-of-quantower.png)
+![General settings of OptimusFLOW &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/general-settings-of-OptimusFLOW.png)
 
 | **Theme** | List | Сhoose one of the 6 color schemes that suits you best |
 | :--- | :--- | :--- |
-| **Language \(beta\)** | List | Quantower supports 15 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.optimusflow.qtower.app/customization/localization). |
-| **Autosave settings \(every 5 minutes\)** | true | Quantower will save your application settings in "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close |
+| **Language \(beta\)** | List | OptimusFLOW supports 15 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.optimusflow.qtower.app/customization/localization). |
+| **Autosave settings \(every 5 minutes\)** | true | OptimusFLOW will save your application settings in "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close |
 | **Display quantity in lots** | true |  |
 | **Abbreviate volume & ticks** | true |  |
 
@@ -48,7 +48,7 @@ Sounds are a good way of additional interaction with user allowing to inform abo
 | :--- | :--- | :--- |
 
 
-The group of actions in Quantower, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls:
+The group of actions in OptimusFLOW, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls:
 
 * enable/disable checkbox
 * action name
@@ -64,7 +64,7 @@ The group of actions in Quantower, when the sound should be played consists of t
 | **Confirm order cancellation** | true | Ask before cancelling order |
 | **Confirm order/position modification** | true | Ask before order of position modifications apply |
 | **Confirm position reversing** | true | Ask before reversing the position |
-| **Confirm application close** | true | Ask before closing the Quantower terminal |
+| **Confirm application close** | true | Ask before closing the OptimusFLOW terminal |
 | **Confirm bind close** | true | Ask before closing the binds |
 | **Show deal tickets** | true | Show the pop-up screens with the trading notification |
 | **Confirm hot button action** | true | Ask before make any action with Hot Button |

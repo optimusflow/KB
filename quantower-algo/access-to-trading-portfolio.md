@@ -6,13 +6,13 @@ description: >-
 
 # Access to trading portfolio
 
-Usually, an algorithm of trading strategy requires an access to various trading information for making decisions. It can be your current opened positions, placed orders or history of your trades. Sometimes you may need also detail information about your account or symbol, you are going to trade on. Quantower API provides you full access to all this information and even more. In this topic, we will show how to retrieve it and use in your strategies or indicators
+Usually, an algorithm of trading strategy requires an access to various trading information for making decisions. It can be your current opened positions, placed orders or history of your trades. Sometimes you may need also detail information about your account or symbol, you are going to trade on. OptimusFLOW API provides you full access to all this information and even more. In this topic, we will show how to retrieve it and use in your strategies or indicators
 
 ## Core - main entry point for all data
 
 [Core](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Core.html) object, which is always accessible from your scripts provides you a wide set of different data and functions. You can read full details about this class in our [API documentation](http://api.optimusflow.qtower.app/index.html), here we will provide an example of access to the most important and useful data.
 
-You should always remember that Quantower is a trading platform, which provides [multi-connection](https://help.optimusflow.qtower.app/~/edit/drafts/-LNQMn7Ysijevbuw-ICT/getting-started/connections-manager) possibility. From one side - it means you can have access to different connections simultaneously and make really professional strategies, such as arbitraging and others. But from another side, when you need to find required symbol or account you have to specify a little more information than just a name - you should provide a connection id in case you have more than one. Quantower store all data from separate connections in special assigned storages and Core object provide you aggregated data from all your current connections.
+You should always remember that OptimusFLOW is a trading platform, which provides [multi-connection](https://help.optimusflow.qtower.app/~/edit/drafts/-LNQMn7Ysijevbuw-ICT/getting-started/connections-manager) possibility. From one side - it means you can have access to different connections simultaneously and make really professional strategies, such as arbitraging and others. But from another side, when you need to find required symbol or account you have to specify a little more information than just a name - you should provide a connection id in case you have more than one. OptimusFLOW store all data from separate connections in special assigned storages and Core object provide you aggregated data from all your current connections.
 
 Here are the main properties from Core object, that will be enough to create the most of classic strategies:
 
@@ -44,7 +44,7 @@ Provides you an access to all [orders ](http://api.optimusflow.qtower.app/docs/T
 
 Provides you an access to the history of all trades from all connections since login. Each trade contains [information ](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Trade.html)about its symbol, price, fee, time of execution and others.
 
-This is only the main properties from [Core](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Core.html). You can check our [API documentation](http://api.optimusflow.qtower.app/index.html) and found many other interesting's ones: Symbol types, Assets, Reports. Actually, you can get all data that are used by Quantower trading platform, as we use the same API during development our plugins.
+This is only the main properties from [Core](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Core.html). You can check our [API documentation](http://api.optimusflow.qtower.app/index.html) and found many other interesting's ones: Symbol types, Assets, Reports. Actually, you can get all data that are used by OptimusFLOW trading platform, as we use the same API during development our plugins.
 
 ## An example of using trading data
 

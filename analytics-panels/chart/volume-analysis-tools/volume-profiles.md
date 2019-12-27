@@ -8,7 +8,7 @@ description: >-
 
 **Volume Profile** displays the trading activity over a specific time period at certain price levels. Meaning, it shows what was bought and sold at those current levels, and displays them in a histogram on the side of your chart. Volume Profile allows you to see the zones of maximum trading interest, and as a consequence, the "true" support/resistance levels.
 
-Quantower platform offers four types of Volume profiles:
+OptimusFLOW platform offers four types of Volume profiles:
 
 * \*\*\*\*[**Step Volume Profile**](volume-profiles.md#step-volume-profile)\*\*\*\*
 * \*\*\*\*[**Left Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)\*\*\*\*
@@ -21,7 +21,7 @@ Step profile displays volume profiles with a certain time step. For example, set
 
 You can enable Step Profile through the volume analysis toolbar or their settings.
 
-![Here is how you can activate Step Profile in Quantower platform](../../../.gitbook/assets/step-profile.gif)
+![Here is how you can activate Step Profile in OptimusFLOW platform](../../../.gitbook/assets/step-profile.gif)
 
 ### **General settings of step profile**
 
@@ -42,7 +42,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 **Left** and **Right volume profile** can be placed on the left and right side of the chart respectively. For example, you can set the delta data on one profile, and on the other the total volume for the same period of time. You can **combine several profiles** that are built on different time periods into one combo profile and put it on left or right chart position.
 
-![Quantower allows to place multiple volume profiles with different data types](../../../.gitbook/assets/left_right-profile.png)
+![OptimusFLOW allows to place multiple volume profiles with different data types](../../../.gitbook/assets/left_right-profile.png)
 
 ## Custom Volume Profile
 
