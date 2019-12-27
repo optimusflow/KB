@@ -15,13 +15,13 @@ Quantower offers a variety of chart types to help you display chart data in diff
 Quantower provides **9 chart types**:
 
 * Tick chart
-* [Time chart](https://help.quantower.com/analytics-panels/chart/chart-types/time-aggregation)
-* [Heiken-Ashi](https://help.quantower.com/analytics-panels/chart/chart-types/heiken-ashi)
-* [Range Bars](https://help.quantower.com/analytics-panels/chart/chart-types/range-bars)
-* [Renko](https://help.quantower.com/analytics-panels/chart/chart-types/renko)
-* [Line Break](https://help.quantower.com/analytics-panels/chart/chart-types/line-break)
-* [Kagi](https://help.quantower.com/analytics-panels/chart/chart-types/kagi)
-* [Points & Figures](https://help.quantower.com/analytics-panels/chart/chart-types/points-and-figures)
+* [Time chart](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/time-aggregation)
+* [Heiken-Ashi](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/heiken-ashi)
+* [Range Bars](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/range-bars)
+* [Renko](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/renko)
+* [Line Break](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/line-break)
+* [Kagi](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/kagi)
+* [Points & Figures](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types/points-and-figures)
 * [Volume](volume-bars.md)
 
 ![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)

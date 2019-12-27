@@ -22,7 +22,7 @@ The entire panel is conventionally divided into several zones:
 
 ## Symbol and account selection
 
-The selection of a trading instrument can be performed manually through the [Symbol Lookup](https://help.quantower.com/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
+The selection of a trading instrument can be performed manually through the [Symbol Lookup](https://help.optimusflow.qtower.app/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
 
 If there are several trading accounts available within your connection, you can select the required account by clicking the **Select Account** button.
 
@@ -85,6 +85,6 @@ This window contains summary information about your order, which will allow you 
 ![Confirmation of the order cancellation](../../.gitbook/assets/confirmation-of-order-cancel.png)
 
 {% hint style="info" %}
-If you activate the "_**Do not show again**_" checkbox, the confirmation will not be displayed and the order will be immediately sent to the order book. In order to return these notifications, it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
+If you activate the "_**Do not show again**_" checkbox, the confirmation will not be displayed and the order will be immediately sent to the order book. In order to return these notifications, it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.optimusflow.qtower.app/getting-started/general-settings#confirmations) of the application
 {% endhint %}
 

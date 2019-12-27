@@ -23,7 +23,7 @@ The chart panel can be divided into 5 parts:
 
 ## Top toolbar
 
-The top toolbar allows you to select a trading instrument, set the chart type and style, timeframe, depth of market data as well as call additional toolbars. Here is the list of [chart types and styles](https://help.quantower.com/analytics-panels/chart/chart-types) where you can find a detailed explanation of how to build them.
+The top toolbar allows you to select a trading instrument, set the chart type and style, timeframe, depth of market data as well as call additional toolbars. Here is the list of [chart types and styles](https://help.optimusflow.qtower.app/analytics-panels/chart/chart-types) where you can find a detailed explanation of how to build them.
 
 ![Primary or Top toolbar with the main controls ](../../.gitbook/assets/top-toolbar.png)
 

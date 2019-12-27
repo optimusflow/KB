@@ -45,5 +45,5 @@ Trading Simulator creates separate trading accounts for each base currency of th
 
 ![General settings for symbols in Trading Simulator](../.gitbook/assets/settings-for-symbols.png)
 
-* **Netting type** — methods by which to summarize existing and new positions. There are 3 types of nettings: **One Position**, **Multiple Per Side**, **Multiple Positions**. Examples of using each method you can find in the description of the [History Player panel settings](https://help.quantower.com/trading-panels/history-player#general-and-instruments-settings).
+* **Netting type** — methods by which to summarize existing and new positions. There are 3 types of nettings: **One Position**, **Multiple Per Side**, **Multiple Positions**. Examples of using each method you can find in the description of the [History Player panel settings](https://help.optimusflow.qtower.app/trading-panels/history-player#general-and-instruments-settings).
 

@@ -20,7 +20,7 @@ But if you don’t want to configure the newly opened panels of this type every 
 ![Saving default settings](../.gitbook/assets/set-as-default.gif)
 
 {% hint style="warning" %}
-If you enable [_**volume analysis tools**_](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools) on the chart panel and save it by default, then each new chart panel will be loading tick and volume data. It will increase traffic consumption and reduce the speed of building chart data.
+If you enable [_**volume analysis tools**_](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools) on the chart panel and save it by default, then each new chart panel will be loading tick and volume data. It will increase traffic consumption and reduce the speed of building chart data.
 {% endhint %}
 
 In the latest version of the platform, we have removed the "_**Reset to Default**_" option. Therefore, each time clicking on the "_**Set as Default**_**"** you redefine the previous settings.

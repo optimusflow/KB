@@ -36,5 +36,5 @@ Quantower API documentation is available on: [http://api.quantower.com](http://a
 
 You just need to spend some time to read our articles about Algo Solutions in Quantower and you will be able to start writing you first indicators or strategies.
 
-In the next topic we will show you how to [install Visual Studio and Quantower Algo extension](https://help.quantower.com/quantower-algo/installing-visual-studio). If you aware how to do it or if you already have Visual Studio installed on your computer you can skip it and start writing your [first simple indicator](https://help.quantower.com/quantower-algo/simple-indicator).
+In the next topic we will show you how to [install Visual Studio and Quantower Algo extension](https://help.optimusflow.qtower.app/quantower-algo/installing-visual-studio). If you aware how to do it or if you already have Visual Studio installed on your computer you can skip it and start writing your [first simple indicator](https://help.optimusflow.qtower.app/quantower-algo/simple-indicator).
 

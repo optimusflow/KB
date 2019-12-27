@@ -48,7 +48,7 @@ Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for
 
 ## Setup Actions - Filters & Actions
 
-We wrote about this functionality in the [**Advanced table filters and actions**](https://help.quantower.com/getting-started/table-management#advanced-table-filter) section, which explains in details the process of adding filters and creating different notifications. Here we briefly describe the filtering process in the table and the settings of various actions.
+We wrote about this functionality in the [**Advanced table filters and actions**](https://help.optimusflow.qtower.app/getting-started/table-management#advanced-table-filter) section, which explains in details the process of adding filters and creating different notifications. Here we briefly describe the filtering process in the table and the settings of various actions.
 
 ### Filtering in the Time & Sales table
 

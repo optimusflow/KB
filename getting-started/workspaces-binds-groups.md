@@ -43,8 +43,8 @@ This menu usually consists of following functions:
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
 * **Duplicate panel**. Just creates one more totally similar panel.
-* \*\*\*\*[**Save as template**](https://help.quantower.com/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
-* \*\*\*\*[**Save as default**](https://help.quantower.com/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
+* \*\*\*\*[**Save as template**](https://help.optimusflow.qtower.app/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
+* \*\*\*\*[**Save as default**](https://help.optimusflow.qtower.app/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
 * **Help**. If you have questions about working with the panel or specific functionality, click on this link and you will immediately redirect to the documentation for this panel.
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
