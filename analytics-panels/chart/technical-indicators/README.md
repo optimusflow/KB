@@ -6,7 +6,9 @@ description: >-
 
 # Technical indicators
 
-{% embed url="https://www.youtube.com/watch?v=vnMvHggnYv0" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=JfXQzxzW9W8&t" %}
+
+
 
 {% page-ref page="oscillators/" %}
 

@@ -16,9 +16,7 @@ Therefore OptimusFLOW provides the **History Player panel** for simple manual ba
 
 ![General view of History Player panel ](../.gitbook/assets/history-player-general.png)
 
-History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
-
-{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with History Player" %}
+History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders.
 
 ## First launch of the History Player
 

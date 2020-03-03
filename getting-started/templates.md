@@ -32,3 +32,7 @@ If you want to **edit** the template name or **delete** it from your terminal �
 You can **share your templates** with other OptimusFLOW traders by sharing the template files with them. Template files can be found in “OptimusFLOW -&gt; Settings -&gt; Templates” folder.
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=C9dlBLImCS0" %}
+
+
+

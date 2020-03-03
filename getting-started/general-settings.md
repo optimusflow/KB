@@ -8,12 +8,12 @@ description: >-
 
 General settings — is a screen, where you can set up the most common behavior of the whole OptimusFLOW application. It is logically grouped into several tabs:
 
-* [**General**](general-settings.md#general)\*\*\*\*
-* \*\*\*\*[**Control Center**](general-settings.md#control-center)\*\*\*\*
-* \*\*\*\*[**Sounds**](general-settings.md#sounds)\*\*\*\*
-* \*\*\*\*[**Confirmations & Warnings**](general-settings.md#confirmations)\*\*\*\*
-* \*\*\*\*[**Time zone settings**](general-settings.md#time-zones)\*\*\*\*
-* **Excel RTD**
+* [**General**](general-settings.md#general)
+* [**Control Center**](general-settings.md#control-center)
+* [**Sounds**](general-settings.md#sounds)
+* [**Confirmations & Warnings**](general-settings.md#confirmations)
+* [**Time zone settings**](general-settings.md#time-zones)
+* \*\*\*\*[**Excel RTD**](general-settings.md#excel-rtd)\*\*\*\*
 
 {% hint style="info" %}
 The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
@@ -23,7 +23,7 @@ General settings are backed up automatically every 5 minutes by default and you 
 
 ## General settings
 
-![General settings of OptimusFLOW &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/general-settings-of-OptimusFLOW.png)
+![General settings of OptimusFLOW &#x2014; Localization, Themes, Sounds, RTD, Time zones](https://github.com/optimusflow/KB/tree/dae7f34d89353156e9869a54638d0da621a15fc4/.gitbook/assets/general-settings-of-OptimusFLOW.png)
 
 | **Theme** | List | Сhoose one of the 6 color schemes that suits you best |
 | :--- | :--- | :--- |

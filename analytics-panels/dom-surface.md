@@ -9,8 +9,6 @@ description: >-
 
 DOM Surface panel shows all past and current changes in the order book — placing, modifying orders, and executing trades.
 
-{% embed url="https://youtu.be/DokWC7aIPM4" caption="" %}
-
 ## Additional DOM Surface columns
 
 On the right side of the panel, there are three histograms — **Size, Cumulative Size, Order Book Imbalance**.

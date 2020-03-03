@@ -8,16 +8,10 @@ description: >-
 
 We have divided the Workspaces organisation hierarchy into four basic layers \(in terms of its scales\):
 
-* \*\*\*\*\[**Standalone panels**
-
-  \]\(workspaces-binds-groups.md\#panels\)\*\*\*\*
-
-* \*\*\*\*\[**Groups**
-
-  \]\(workspaces-binds-groups.md\#groups\)\*\*\*\*
-
-* \*\*\*\*[**Binds**](workspaces-binds-groups.md#binds)
-* \*\*\*\*[**Workspaces**](workspaces-binds-groups.md#workspaces)\*\*\*\*
+* \*\*\*\*[**Standalone panels**](workspaces-binds-groups.md#panels)\*\*\*\*
+* \*\*\*\*[**Groups**](workspaces-binds-groups.md#groups)\*\*\*\*
+* [**Binds**](workspaces-binds-groups.md#binds)
+* [**Workspaces**](workspaces-binds-groups.md#workspaces)
 
 ![General scheme of organisation layers](../.gitbook/assets/group_bind_workspace.png)
 
@@ -43,12 +37,14 @@ This menu usually consists of following functions:
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
 * **Duplicate panel**. Just creates one more totally similar panel.
-* \*\*\*\*[**Save as template**](https://help.optimusflow.qtower.app/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
-* \*\*\*\*[**Save as default**](https://help.optimusflow.qtower.app/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and OptimusFLOW will store your current panel’s settings and will apply them for each newly opened panel of this type.
+* [**Save as template**](https://help.optimusflow.qtower.app/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
+* [**Save as default**](https://help.optimusflow.qtower.app/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and OptimusFLOW will store your current panel’s settings and will apply them for each newly opened panel of this type.
 * **Help**. If you have questions about working with the panel or specific functionality, click on this link and you will immediately redirect to the documentation for this panel.
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
-{% embed url="https://www.youtube.com/watch?v=JwFp0COSuuA" caption="Panels linking" %}
+{% embed url="https://www.youtube.com/watch?v=2joU4y7g7Tw" %}
+
+
 
 ## Groups
 
@@ -98,8 +94,6 @@ The highest level of trading area organization — is a Workspace. This is the m
 Because of its nature \(the global grouping tool\), Workspaces manager is situated on Control center panel and can be invoked by clicking the corresponding button. [More about creating, managing and switching the workspaces](control-center.md#workspaces-manager) can be found in Control center section.
 
 As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**OptimusFLOW -&gt; Settings -&gt; Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.
-
-{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="How to create and save your custom workspace" %}
 
 {% hint style="success" %}
 OptimusFLOW auto-saves each workspace into its local file every 5 mins, in order to keep them safe.

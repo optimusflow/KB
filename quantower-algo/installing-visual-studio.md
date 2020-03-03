@@ -1,7 +1,7 @@
 ---
 description: >-
-  How to install Visual Studio and OptimusFLOW Algo extension, and create your own
-  indicators and strategies
+  How to install Visual Studio and OptimusFLOW Algo extension, and create your
+  own indicators and strategies
 ---
 
 # Install for Visual Studio

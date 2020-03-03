@@ -7,7 +7,9 @@ description: >-
 
 # TPO Profile Chart
 
-{% embed url="https://youtu.be/BcDCx0tzlRA" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=HdW3qHLaYLw&t" %}
+
+\*\*\*\*
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
@@ -33,9 +35,9 @@ To open new TPO panel, go to _**Main menu**_ \(Logo icon\) and select _**TPO Cha
 
 There are three main controls on the top toolbar of TPO chart panel:
 
-* \*\*\*\*[**Aggregation**](tpo-chart.md#aggregation-of-tpo-profile-chart)\*\*\*\*
-* \*\*\*\*[**Style**](tpo-chart.md#style-settings-of-tpo-profile-chart)\*\*\*\*
-* \*\*\*\*[**Volume Analysis**](tpo-chart.md#volume-analysis)\*\*\*\*
+* [**Aggregation**](tpo-chart.md#aggregation-of-tpo-profile-chart)
+* [**Style**](tpo-chart.md#style-settings-of-tpo-profile-chart)
+* [**Volume Analysis**](tpo-chart.md#volume-analysis)
 
 ### Aggregation of TPO Profile Chart
 

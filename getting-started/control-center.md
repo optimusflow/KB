@@ -85,9 +85,11 @@ This feature is useful in case you would like to only analyze the market or whil
 
 ## Workspaces manager
 
-{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in OptimusFLOW" %}
-
 **Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
+
+{% embed url="https://www.youtube.com/watch?v=lMHq6-v8OL8&t=" caption="How to manage, edit, and create new workspaces." %}
+
+
 
 ![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
 
@@ -111,7 +113,7 @@ You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block.
 
-![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
+![](../.gitbook/assets/image.png)
 
 In order to show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
 

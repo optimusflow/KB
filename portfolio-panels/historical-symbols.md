@@ -1,8 +1,8 @@
 ---
 description: >-
   Historical Symbols panel is designed to import historical data from
-  third-party data providers to OptimusFLOW with performing a subsequent technical
-  analysis or backtesting.
+  third-party data providers to OptimusFLOW with performing a subsequent
+  technical analysis or backtesting.
 ---
 
 # Historical Symbols

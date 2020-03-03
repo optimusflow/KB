@@ -1,7 +1,7 @@
 ---
 description: >-
-  Use the results of 50+ built-in indicators of OptimusFLOW in your strategies and
-  indicators
+  Use the results of 50+ built-in indicators of OptimusFLOW in your strategies
+  and indicators
 ---
 
 # Built-In indicators access
@@ -92,7 +92,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_) _\*\*_method:
+In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.optimusflow.qtower.app/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_) \_\*\*\_method:
 
 ```csharp
 /// <summary>
