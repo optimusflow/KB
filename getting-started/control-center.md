@@ -13,7 +13,7 @@ description: >-
 * Connections monitor
 * General settings access point
 
-![Control Center Toolbar](../.gitbook/assets/image%20%286%29.png)
+![Control Center Toolbar](../.gitbook/assets/image%20%287%29.png)
 
 CC technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.
 
@@ -27,7 +27,7 @@ The “_**Close**_” icon just closes the terminal. You may set up “_not to a
 
 For optimal use of the space on Control center, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
 
-![Right click on the control center will bring up the addtional settings window ](../.gitbook/assets/customization-of-control-center.png)
+![Right click on the control center will bring up the additional settings window.](../.gitbook/assets/image%20%284%29.png)
 
 We have also added the ability to quickly call the controls without displaying them on the control center.
 

@@ -15,7 +15,7 @@ To connect OptimusFLOW to a broker that uses Rithmic technology, it is sufficien
 * Enter your login and password and click **Connect.**
 * If necessary, the server can be changed in the connection settings. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 
-![Enter login data for Rithmic, choose server type, and change connection settings if needed.](../.gitbook/assets/image%20%287%29.png)
+![Enter login data for Rithmic, choose server type, and change connection settings if needed.](../.gitbook/assets/image%20%288%29.png)
 
 ## New Accounts
 

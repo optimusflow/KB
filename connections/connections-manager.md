@@ -8,7 +8,7 @@ description: >-
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc.
 
-![Launch the connection manager to establish a connection.](../.gitbook/assets/image%20%285%29.png)
+![Launch the connection manager to establish a connection.](../.gitbook/assets/image%20%286%29.png)
 
 {% hint style="success" %}
 Each integration is developed and tested by OptimusFLOW specialists and guarantees the stability and security of all transferred information.
