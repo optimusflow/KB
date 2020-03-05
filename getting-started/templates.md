@@ -24,7 +24,7 @@ The process of Template creation is as simple as 1-2-3:
 
 All of the created templates are stored in Control center sidebar, under the _**“Templates”**_ group. So you can launch any template from this place any time you wish. You can put the saved templates on the Favorites bar of Control center, as any other default panel.
 
-![Templates found in the Control Center Sidebar.](../.gitbook/assets/image%20%284%29.png)
+![Templates found in the Control Center Sidebar.](../.gitbook/assets/image%20%285%29.png)
 
 If you want to **edit** the template name or **delete** it from your terminal — use the context menu on it. Each Template stores all of the settings data, including sizes, coloring, internal elements visibility, a predefined symbol of account values, additional specific settings etc. In other words: all that you can customize + more.
 

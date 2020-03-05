@@ -23,7 +23,7 @@ If you click on symbol name you will see that Lookup screen will pop up and the 
 
 If you click on “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
 
-![Symbol Lookup Screen](../.gitbook/assets/image%20%2810%29.png)
+![Symbol Lookup Screen](../.gitbook/assets/image%20%2811%29.png)
 
 Anyway, you will get the Lookup screen, ready for Symbol selection. Lookup screen consists of three elements:
 
@@ -39,7 +39,7 @@ Usually, each connection gives you a numerous list of trading Symbols to select 
 
 In the example below, we search for ES:
 
-![Symbol Lookup Filtering](../.gitbook/assets/image%20%289%29.png)
+![Symbol Lookup Filtering](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="warning" %}
 Be careful. While the Search field becomes reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
@@ -58,11 +58,11 @@ The Symbol types are marked with additional icons to help you identify the requi
 
 To select the Symbol — click on it; to apply the symbol to the required panel, just double-click on it. This action closes the Lookup screen
 
-## Multiple symbols select
+## Multiple Symbols Select
 
-In some cases, when panel can accept more than one Symbol item from lookup \(like the Watchlist\), you have an ability to select multiple items by holding the "_**Ctrl key**_" and clicking on the list. Once you ready to apply multiple items — press the "_**blue circle icon**_" on the right bottom corner of the list. You may also select any category level item to apply all its contents to the required panel.
+In some cases, when panel can accept more than one Symbol item from lookup \(like the Watchlist\), you have an ability to select multiple items by holding the "_**Ctrl key**_" and clicking on the list. Once you ready to apply multiple items — press the "_**check icon**_" in the right bottom corner of the list. You may also select any category level item to apply all its contents to the required panel.
 
-![Multiple Symbols select](../.gitbook/assets/lookupmultiple.png)
+![Multiple Symbols Select](../.gitbook/assets/image.png)
 
 ## List footer
 
@@ -72,7 +72,7 @@ To help you deal with the big lists of Symbols, there is a footer toolbar with a
 * Expand head nodes \(top-level nodes, usually Connections\)
 * Expand first-level child nodes
 
-![Managing of multiple nodes in the Lookup Screen](../.gitbook/assets/collapsing.gif)
+![List Footer Filtering](../.gitbook/assets/list-footer%20%281%29.gif)
 
 The other useful information is placed on the right side of footer toolbar — items count. It may show the total amount of available Symbols \(after the filtering was applied\) as well as 3/235 \(3 from 235\) value, saying that you have selected multiple items among available.
 

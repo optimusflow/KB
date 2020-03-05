@@ -13,7 +13,7 @@ description: >-
 * Connections monitor
 * General settings access point
 
-![Control Center Toolbar](../.gitbook/assets/image%20%288%29.png)
+![Control Center Toolbar](../.gitbook/assets/image%20%289%29.png)
 
 CC technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.
 
@@ -27,7 +27,7 @@ The “_**Close**_” icon just closes the terminal. You may set up “_not to a
 
 For optimal use of the space on Control center, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
 
-![Right click on the control center will bring up the additional settings window.](../.gitbook/assets/image%20%285%29.png)
+![Right click on the control center will bring up the additional settings window.](../.gitbook/assets/image%20%286%29.png)
 
 We have also added the ability to quickly call the controls without displaying them on the control center.
 
@@ -37,7 +37,7 @@ We have also added the ability to quickly call the controls without displaying t
 
 All of the panels are placed in so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on CC.
 
-![Control Center sidebar \(Main Menu\)](../.gitbook/assets/image%20%282%29.png)
+![Control Center sidebar \(Main Menu\)](../.gitbook/assets/image%20%283%29.png)
 
 The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
@@ -96,7 +96,7 @@ You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 In order to show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
 
