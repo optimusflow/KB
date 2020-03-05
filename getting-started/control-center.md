@@ -50,30 +50,13 @@ The footer of Sidebar contains several functions:
 The list of links in footer can contain more or fewer items, depending on current application requirements.
 {% endhint %}
 
-## Smart search
-
-The Smart search block of Control center allows finding the various elements of the whole application. It is connected with the Sidebar and uses it to display the search results.
-
-![Smart search results](../.gitbook/assets/ccsmartsearch.png)
-
-Currently, the Smart search feature allows you to find the following elements:
-
-* Panels \(by their names\);
-* Trading symbols among all active connections \(by their names and descriptions\)
-
-In case you find a panel, just click its icon to open it.
-
-If you were looking for a trading symbol, click on it to see the list of supported panels, that can be opened, predefined with this symbol.
-
-To cancel the search results — click the “_**Cancel search**_” button at the Sidebar footer. This will get you back to the default panels list view.
-
 ## Favorite panels
 
 You might already have seen the Star icon in the right top corners of some panels tiles in Sidebar. This is the “Favorite panels” functionality, allowing you to select the most usable panels and place their icons on the Favorites bar on Control center.
 
-![Favorite panels](../.gitbook/assets/ccfavoritepanels.gif)
+![Favorites Panel](../.gitbook/assets/favorites-panel.gif)
 
-The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon appeared. That is all: panel appears in Favorite panels bar in Control center. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
+The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon appeared. You can also right click an icon and choose the **Pin On Toolbar** option. That is all: panel appears in Favorite panels bar in Control center. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
 
 ## Lock trading
 
