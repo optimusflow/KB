@@ -6,7 +6,7 @@ description: >-
 
 # First Time Users
 
-For first time users of Optimus Flow, if you haven't already, please download the platform via the following link: [https://optimusfutures.com/bin/OTGQT.php](https://optimusfutures.com/bin/OTGQT.php)
+For first time users of Optimus Flow, if you haven't already, please download the platform [Here](https://optimusfutures.com/bin/OTGQT.php)!
 
 Once Optimus Flow is downloaded, please follow the steps listed below:
 
