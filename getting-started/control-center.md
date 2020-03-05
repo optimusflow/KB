@@ -37,7 +37,7 @@ We have also added the ability to quickly call the controls without displaying t
 
 All of the panels are placed in so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on CC.
 
-![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
+![Control Center sidebar \(Main Menu\)](../.gitbook/assets/image%20%282%29.png)
 
 The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
