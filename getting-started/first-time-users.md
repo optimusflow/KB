@@ -26,3 +26,7 @@ Once Optimus Flow is downloaded, please follow the steps listed below:
 
 For further instructions on connecting to the Rithmic datafeed, please refer to the [following section of our help guide](../connections/connection-to-rithmic.md).
 
+{% embed url="https://www.youtube.com/watch?v=PAoagXk7\_OI&t" %}
+
+
+
