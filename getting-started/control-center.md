@@ -13,7 +13,7 @@ description: >-
 * Connections monitor
 * General settings access point
 
-![Control center toolbar](../.gitbook/assets/controlcenter.png)
+![Control Center Toolbar](../.gitbook/assets/image%20%286%29.png)
 
 CC technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.
 
