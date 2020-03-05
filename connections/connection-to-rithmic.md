@@ -22,7 +22,7 @@ To connect OptimusFLOW to a broker that uses Rithmic technology, it is sufficien
 {% embed url="https://www.youtube.com/watch?v=Qm4zRH3L5bw" caption="How to connect with a live or demo Rithmic account" %}
 
 * Create a new demo or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
-* To register **Rithmic Demo** go to their official website or follow this [link](https://rithmic.com/demo.html#sign-up)
+* To register for an Optimus Flow demo and 14 day trial of the Rithmic datafeed, please follow this [link](https://optimusfutures.com/OptimusFlow.php).
 * Fill in all the required fields
 * Accept _"Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_
 
