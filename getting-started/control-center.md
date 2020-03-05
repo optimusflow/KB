@@ -1,7 +1,7 @@
 ---
 description: >-
-  Get to know how to use and manage Control center that is a starting panel of
-  all platform
+  Get to know how to use and manage the Control center which is the starting
+  panel of Optimus Flow.
 ---
 
 # Control center

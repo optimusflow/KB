@@ -2,6 +2,7 @@
 
 * [Welcome to OptimusFLOW Help](README.md)
 * [Getting started](getting-started/README.md)
+  * [First Time Users](getting-started/first-time-users.md)
   * [Control center](getting-started/control-center.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Templates](getting-started/templates.md)
