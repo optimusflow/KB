@@ -27,5 +27,5 @@ In case you have forgotten or lost your API key, you can create a new one at any
 
 1. Launch OptimusFLOW platform **\(**[https://www.OptimusFLOW.com/](https://optimusfutures.com/OptimusFlow.php)**\)** and select OANDA from the connection list. Choose demo or real connection and insert the API key.
 
-![Connect to OANDA using your API Key.](../.gitbook/assets/image%20%289%29.png)
+![Connect to OANDA using your API Key.](../.gitbook/assets/image%20%2810%29.png)
 
