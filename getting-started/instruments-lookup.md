@@ -23,7 +23,7 @@ If you click on symbol name you will see that Lookup screen will pop up and the 
 
 If you click on “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
 
-![Symbol Lookup screen](../.gitbook/assets/symbol-lookup-screen.png)
+![Symbol Lookup Screen](../.gitbook/assets/image%20%2810%29.png)
 
 Anyway, you will get the Lookup screen, ready for Symbol selection. Lookup screen consists of three elements:
 
@@ -37,22 +37,12 @@ If you want to close it just click outside of it.
 
 Usually, each connection gives you a numerous list of trading Symbols to select from. If you know name, you can start typing it in “_**Search field**_”, and the below list will be instantly filtered to the items, containing the entered phrase.
 
-![Symbol lookup filtering](../.gitbook/assets/lookupfiltered.png)
+In the example below, we search for ES:
 
-By the way, you can apply more general filtering to the list; just click the “_**Filter**_” icon on the right side of the search field and you will see the second level of symbols filtering.
-
-![General filtering of trading Symbols](../.gitbook/assets/lookupfilter2.png)
-
-Here you will be able to filter the list by three parameters:
-
-* Connection \(currently active connections\)
-* Symbol type \(FOREX, CFD’s, Options etc.\)
-* Exchange \(Off-Exchange, NYSE, NASDAQ etc.\)
-
-Once selecting some items among filtering parameters, the list becomes filtered to the selected values only.
+![Symbol Lookup Filtering](../.gitbook/assets/image%20%289%29.png)
 
 {% hint style="warning" %}
-Be careful. While the Searchfield is become reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
+Be careful. While the Search field becomes reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
 {% endhint %}
 
 ## Symbols list
