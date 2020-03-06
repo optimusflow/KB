@@ -29,7 +29,7 @@ We are planning to provide our users the possibility to use all well known produ
 We provide absolutely full access to all functionality of our trading core layer for developers. Moreover, we are developing OptimusFLOW using the same API, which means you always will have up-to-date and powerful set of features, which allows you to create script any level script, from trivial indicators to complex strategies or trading/analytics panels.
 
 {% hint style="info" %}
-OptimusFLOW API documentation is available on: [http://api.optimusflow.qtower.app](http://api.optimusflow.qtower.app)
+OptimusFLOW API documentation is available on: [https://api.optimusflow.app/](https://api.optimusflow.app/)
 {% endhint %}
 
 ## Before you start
