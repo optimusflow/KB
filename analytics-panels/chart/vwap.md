@@ -6,70 +6,48 @@ description: >-
 
 # VWAP \| Volume Weighted Average Price
 
-**Volume Weighted Average Price** knows as **VWAP** is a “benchmark” price of an asset for any period of the trading day or session. Average price is weighted by volume for evaluating the overpaying or underpaying of current price relative to the VWAP price.
+OptimusFLOW trading platform provides [**Volume analysis tools**](https://www.OptimusFLOW.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
-![](../../.gitbook/assets/multiple-vwap.png)
+{% embed url="https://youtu.be/duOmadSFN4Y" caption="" %}
 
-The indicator is calculated for any period of time according to the following algorithm:
+Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
-* the average price \(AP\) is calculated for each bar or candle. The calculation is made for each price change for the current candle.  AP = \(H+L+C\)/3
-* the average price is multiplied by the volume that has passed in the current candlestick or bar. For example, in real time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
-* the above values are summed up and divided by the total volume for the specified period.
+* [**Cluster Chart**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(a.k.a. Footprint chart or OrderFlow chart\)
+* [**Volume Profiles**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
+* [**Time Statistics**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-statistics) \(known as Bar Statistics\) — in table form
+* [**Time Histogram**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-histogram) — in form of vertical histogram
+* **Custom VWAP \(Anchored VWAP\)** — can be attached to the any selected bar as a starting calculation point
+* [**VWAP**](vwap.md) — multiple VWAP lines for single chart
+* [**Historical Time & Sales**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) — the table of all trades for the any selected bar
 
-  ```text
-                        **VWAP = \(Sum of Average Price \* Traded Volume\) / Cumulative Volume**
-  ```
+  The GIF below shows how you can activate the toolbar of volume analysis tools:
 
-## **How to add VWAP to the chart?**
+![Enable the toolbar of Volume Analysis Tools ](../../.gitbook/assets/volume-analysis-tools.gif)
 
-The VWAP indicator is located on the Volume Analysis toolbar. When you click on it, a menu with basic settings and an indicator activation / deactivation switch will appear.
+{% hint style="info" %}
+**Green color** indicates that seleced volume analysis tool has entirely downloaded the data.  
+**Yellow color** indicates that selected tool is dowloading the data.
+{% endhint %}
 
-![VWAP Indicator is placed on Volume Analysis toolbar](../../.gitbook/assets/vwap-activation.png)
+## Data types of Volume Analysis Tools
 
-The quick settings menu contains:
+All volume analysis tools have the same **Data Types**, which can be specified in the settings:
 
-* **Enabled** switch shows or hides the VWAP indicator on the chart
-* **Base period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
+* **Trades** — it's the number of contracts \(trades\) that executed at each price level.
+* **Buy \(or Sell\) trades** — it's the number of Buy \(or Sell\) trades that executed at each price level.
+* **Volume** — the total size of all positions that executed at each price level or price range.
+* **Buy \(or Sell\) Volume** — the total size of all Buy \(or sell\) positions that executed at each price level or price range.
+* **Buy \(or Sell\) Volume, %** — shows how many percent of the total volume relates to Buy \(or Sell\) trades
+* **Buy / Sell Volume** — simultaneous display of buy and sell volume on one histogram
+* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.  Delta % = Delta / Volume \* 100
+* **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time \(or number of bars\). 
 
-### Advanced indicator settings
+![Use various data types for all volume analysis tools](../../.gitbook/assets/volume-profiles-data-types.png)
 
-By clicking on the "**Gear"** icon, additional settings will open.
-
-![Additional setiings for VWAP Indicator](../../.gitbook/assets/vwap-additional-settings.png)
-
-**1. Switch between different VWAPs** and set the settings for each of them
-
-OptimusFLOW platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
-
-**2.** Set the **Main Settings** for the VWAP line:
-
-* **Period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
-* **Forward Extensions** \(type and number\)
-* **VWAP line** — visual settings for VWAP itself
-
-**3. Standard Deviation Bands**
-
-When the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. Specify the number of standard deviations in the _**"Value"**_ field and colors
-
-**4. Maximum Permissible Deviation \(MPD\)**
-
-MPD is similar to the standard deviation but is calculated as \(VWAP period high - VWAP period low\)/2.
-
-## How to use VWAP in trading?
-
-VWAP has numerous application in the trading world. It is helpful for both institutional investors and retail intraday traders. Below are some well known applications of VWAP:
-
-* It helps in Buying low and Selling High. If the price is below VWAP, it is considered as undervalued, while price above VWAP is considered as overvalued.
-* Crossing of prices above/below VWAP line in chart indicates momentum shift or change of trend.
-* VWAP is also used as a trading benchmark by institutional investors who are not worried about the timing of the trade, but who are concerned about the adverse impact of their trades on the price of the security.
-* VWAP serves as a reference point for prices for one day. As such, it is best suited for intraday analysis**.** Chartists can compare current prices with the VWAP values to determine the intraday trend.
-* VWAP indicator can be used as a dynamic support/resistance line during sideways market.
-
-For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES \(e-mini S&P500\) futures on 5-minute chart with an hourly VWAP.
-
-![Trading with VWAP in OptimusFLOW platform](../../.gitbook/assets/vwap-trading.png)
-
-An important point in this tactic is that the distance between the VWAP value and the closing price should be significant.
-
-![The distance between the VWAP value and the closing price should be significant ](../../.gitbook/assets/vwap-trading1.png)
+* **Average size** — the average volume of the position that was executed at a certain price or price range.
+* **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
+* **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.
+* **Max one trade volume \(value and %\)** — shows the maximum volume of a single trade that has executed at a certain price or price range \(depending on the Custom Step \(ticks\) setting\).
+* **Filtered volume \(value and %\)** — this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
+* **Buy \(or Sell\) filtered volume** — the parameter displays Buy \(or Sell\) volumes that exceed the size specified in the filter.
 

@@ -13,10 +13,10 @@ OptimusFLOW trading platform provides [**Volume analysis tools**](https://www.Op
 
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
-* \*\*\*\*[**Cluster Chart**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(a.k.a. Footprint chart or OrderFlow chart\)
+* [**Cluster Chart**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(a.k.a. Footprint chart or OrderFlow chart\)
 * [**Volume Profiles**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
 * [**Time Statistics**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-statistics) \(known as Bar Statistics\) — in table form
-* [**Time Histogram**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-histogram) _\*\*_— in form of vertical histogram
+* [**Time Histogram**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-histogram) — in form of vertical histogram
 * **Custom VWAP \(Anchored VWAP\)** — can be attached to the any selected bar as a starting calculation point
 * \*\*\*\*[**VWAP**](../vwap.md) — multiple VWAP lines for single chart
 * [**Historical Time & Sales**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) _\*\*_— the table of all trades for the any selected bar
