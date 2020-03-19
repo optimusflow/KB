@@ -10,10 +10,10 @@ description: >-
 
 OptimusFLOW platform offers four types of Volume profiles:
 
-* \*\*\*\*[**Step Volume Profile**](volume-profiles.md#step-volume-profile)\*\*\*\*
-* \*\*\*\*[**Left Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)\*\*\*\*
-* \*\*\*\*[**Right Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)\*\*\*\*
-* \*\*\*\*[**Custom Volume Profile**](volume-profiles.md#custom-volume-profile)\*\*\*\*
+* [**Step Volume Profile**](volume-profiles.md#step-volume-profile)
+* [**Left Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)
+* [**Right Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)
+* [**Custom Volume Profile**](volume-profiles.md#custom-volume-profile)
 
 ## Step Volume Profile
 
@@ -54,7 +54,7 @@ After you have placed a custom profile on the chart, a control panel with five o
 
 ![Control panel for custom volume profile](../../../.gitbook/assets/image-20.png)
 
-* Dublicate profile with the same range and settings
+* Duplicate profile with the same range and settings
 * Move profile to the background or foreground
 * Lock current position of the profile. Prohibits the profile movement.
 * **Additional settings** for selected profile
@@ -66,7 +66,7 @@ In addition to the settings for quick management of custom profile, there are ad
 
 ![Additional settings for custom volume profile](../../../.gitbook/assets/custom-profile-settings.gif)
 
-There are a lot of various settings, but the most intersting are:
+There are a lot of various settings, but the most interesting are:
 
 * **Value Area** — shows the price area with 70% of trading activity for the specified time range. The value of 70% is set by default, but the user can change it at his discretion.
 * **POC Ray** — extends the level of maximum volume \(Point of Control\) to the price scale
