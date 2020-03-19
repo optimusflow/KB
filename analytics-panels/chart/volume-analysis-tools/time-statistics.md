@@ -8,8 +8,6 @@ description: >-
 
 **Time Statistics** tool \(sometimes called as _**Bar Statistics**_\) shows important volumetric values for each bar in a static grid-like fashion.
 
-{% embed url="https://youtu.be/cIihDZWMOiE" caption="" %}
-
 Click on the **Time Statistics** button to activate it and to add the necessary data type. Also, via a right click in the side scale section the individual statistic values could be enabled / disabled '_on the fly_'.
 
 ![Time Statistics \(or Bar Statistics\) shows extended volume data for each bar](../../../.gitbook/assets/time-or-bar-statistics.png)
