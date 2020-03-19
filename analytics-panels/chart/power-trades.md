@@ -4,8 +4,6 @@
 
 Using **Power Trades** you can see the execution of a large number of orders in a very short time, which will affect the price change with a high probability.
 
-{% embed url="https://youtu.be/\_4mCYtfUkgw" caption="" %}
-
 ## What does **Power Trades** show?
 
 **Power Trades** shows the zones with the execution of a large number of orders in a very short time, which will affect the price change with a high probability. Let's take a look at a few examples.
