@@ -1,4 +1,6 @@
 # Drawing tools
 
-{% embed url="https://www.youtube.com/watch?v=NSX4JQq6i7U" caption="How to add favorite drawing tools to the side bar" %}
+{% embed url="https://youtu.be/JfXQzxzW9W8" caption="How to Add Indicators, Overlays, and Drawing Tools to Your Charts." %}
+
+
 
