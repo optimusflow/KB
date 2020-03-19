@@ -1,12 +1,12 @@
 # Power Trades
 
-\*\*\*\*[**Volume analysis tools**](volume-analysis-tools/) allow you to understand the causes of price movement, clarify and confirm support and resistance levels, as well as assess the imbalance between buyers and sellers. But volume tools are link to a specific time \(timeframe\), not allowing to see an execution of large orders at the moment.
+[**Volume analysis tools**](volume-analysis-tools/) allow you to understand the causes of price movement, clarify and confirm support and resistance levels, as well as assess the imbalance between buyers and sellers. But volume tools are link to a specific time \(time frame\), not allowing to see an execution of large orders at the moment.
 
 Using **Power Trades** you can see the execution of a large number of orders in a very short time, which will affect the price change with a high probability.
 
 {% embed url="https://youtu.be/\_4mCYtfUkgw" caption="" %}
 
-## What is **Power Trades** show?
+## What does **Power Trades** show?
 
 **Power Trades** shows the zones with the execution of a large number of orders in a very short time, which will affect the price change with a high probability. Let's take a look at a few examples.
 
@@ -44,7 +44,7 @@ The following settings are involved in the calculation of the indicator, and dir
 * **Min Trade Volume** — the indicator calculation takes into account the executed trades, each with the size equal to or greater than the set value. For example, we can set 100 contracts, and all trades with the volume not less than the specified one will be taken into account in the calculation of the zone.
 * **Max Trade Volume** — the indicator calculation takes into account the executed trades, each with the size not exceeding the set value.
 * **Zone Height, ticks** — this parameter will show only those zones where the height is less than or equal to the specified value \(in ticks\).
-* **Level2 level count** — the number of levels that are involved in the calculation of **Imbalance** and the _Level 2 Ratio_ column in the table of results.
+* **Level 2 level count** — the number of levels that are involved in the calculation of **Imbalance** and the _Level 2 Ratio_ column in the table of results.
 * **Filter by Delta,%** — the parameter will show zones that have a delta value greater than or equal to that specified in the setting. The value must be specified by module, so the table will show both positive and negative delta values. _We recommend to **pay attention to the zones with the delta above/below 50%**_ \(taking into account the specifics of each trading instrument\).
 * **Filter by Basis Ratio, %** — the parameter will show zones that have a **Basis Volume \(%\)** value greater than or equal to that specified in the setting.
 
