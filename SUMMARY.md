@@ -18,7 +18,6 @@
 * [Analytics panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart types](analytics-panels/chart/chart-types/README.md)
-      * [Time aggregation](analytics-panels/chart/chart-types/time-aggregation.md)
       * [Renko](analytics-panels/chart/chart-types/renko.md)
       * [Heiken Ashi](analytics-panels/chart/chart-types/heiken-ashi.md)
       * [Kagi](analytics-panels/chart/chart-types/kagi.md)

@@ -9,7 +9,7 @@ description: >-
 
 OptimusFLOW trading platform provides [**Volume analysis tools**](https://www.OptimusFLOW.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
-{% embed url="https://youtu.be/duOmadSFN4Y" caption="" %}
+{% embed url="https://youtu.be/AEKYqp7ZQLk" caption="Volume Analysis Tools" %}
 
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
@@ -18,8 +18,8 @@ Volume analysis tools include proprietary and well-known analytics, which we’l
 * [**Time Statistics**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-statistics) \(known as Bar Statistics\) — in table form
 * [**Time Histogram**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/time-histogram) — in form of vertical histogram
 * **Custom VWAP \(Anchored VWAP\)** — can be attached to the any selected bar as a starting calculation point
-* \*\*\*\*[**VWAP**](../vwap.md) — multiple VWAP lines for single chart
-* [**Historical Time & Sales**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) _\*\*_— the table of all trades for the any selected bar
+* [**VWAP**](../vwap.md) — multiple VWAP lines for single chart
+* [**Historical Time & Sales**](https://help.optimusflow.qtower.app/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) — the table of all trades for the any selected bar
 
   The GIF below shows how you can activate the toolbar of volume analysis tools:
 
