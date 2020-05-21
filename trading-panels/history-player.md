@@ -1,10 +1,10 @@
 ---
 description: >-
-  History Player (Market Replay) allows you to test on any trading instruments
-  with any vendor or broker
+  Market Replay is a “history player” that lets you to test nearly any trading
+  strategy with the ability to study your errors and seek out adjustments.
 ---
 
-# History Player
+# Market Replay \(History Player\)
 
 ## What is History Player
 
