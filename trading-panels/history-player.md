@@ -10,7 +10,7 @@ description: >-
 
 Testing of trading strategies is one of the most important and necessary steps for successful trading. If you are an experienced algotrader, then the automatic testing method is ideal and you can use our Extension for Visual Studio. But unfortunately, many traders don't know the programming language, which makes testing their strategies difficult.
 
-![Launch History Player ](../.gitbook/assets/screenshot_27.png)
+![How to launch the history player](../.gitbook/assets/image%20%2812%29.png)
 
 Therefore OptimusFLOW provides the **History Player panel** for simple manual backtesting of any trading strategy.
 
