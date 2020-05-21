@@ -6,7 +6,7 @@ description: >-
 
 # Market Replay \(History Player\)
 
-## What is History Player
+## What is Market Replay \(History Player\)
 
 Testing of trading strategies is one of the most important and necessary steps for successful trading. If you are an experienced algotrader, then the automatic testing method is ideal and you can use our Extension for Visual Studio. But unfortunately, many traders don't know the programming language, which makes testing their strategies difficult.
 
