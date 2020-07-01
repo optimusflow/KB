@@ -10,11 +10,11 @@ description: >-
 
 Testing of trading strategies is one of the most important and necessary steps for successful trading. If you are an experienced algotrader, then the automatic testing method is ideal and you can use our Extension for Visual Studio. But unfortunately, many traders don't know the programming language, which makes testing their strategies difficult.
 
-![How to launch the history player](../.gitbook/assets/image%20%2812%29.png)
+![How to launch Market Replay](../.gitbook/assets/launch.png)
 
 Therefore OptimusFLOW provides the **History Player panel** for simple manual backtesting of any trading strategy.
 
-![General view of History Player panel ](../.gitbook/assets/history-player-general.png)
+![General view of the Market Replay panel ](../.gitbook/assets/history-player-general%20%281%29.png)
 
 History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders.
 
@@ -32,7 +32,7 @@ If you click on the "**Stop"** button, all test progress will be canceled.
 
 When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
 
-![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
+![](../.gitbook/assets/available-panels-in-history-player%20%281%29.png)
 
 In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.OptimusFLOW.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
@@ -40,7 +40,7 @@ In our blog, we showed in detail the process of [manual backtesting of trading s
 
 Before you start testing the strategy, you need to set up an initial trading balance, a simulation \(or modeling\) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
 
-![Set up the initial trading balance and modeling scheme](../.gitbook/assets/screenshot_18.png)
+![Set up the initial trading balance and modeling scheme](../.gitbook/assets/backtesting.png)
 
 Strategy testing can be performed by one of three schemes to choose from:
 
@@ -54,7 +54,7 @@ Strategy testing can be performed by one of three schemes to choose from:
 
 Now let's look at the main settings of the selected trading instrument
 
-![Basic settings for trading instrument - Netting type and additional fees](../.gitbook/assets/screenshot_20.png)
+![Basic settings for trading instrument - Netting type and additional fees](../.gitbook/assets/backtesting-2.png)
 
 In the **Netting type** section, you can choose the method by which to summarize existing and new positions:
 
