@@ -10,9 +10,9 @@ In our previous articles, we showed you how to use OptimusFLOW Algo extension an
 
 We use the name "Strategy" for code, that can implement absolutely any logic and can be executed in OptimusFLOW. You can use strategies for the realization of trading algorithms, a specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover, we provide you access to almost all functions from our trading core.
 
-OptimusFLOW Algo provides you with two predefined templates of strategies. We will start from a blank template, which contains only basic functions. Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Find "**OptimusFLOW Algo**" group and select Strategy" template:
+OptimusFLOW Algo provides you with two predefined templates of strategies. We will start from a blank template, which contains only basic functions. Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Type "Strategy" and you will see special project type for blank Strategy:
 
-![New Project window and Strategy template](../.gitbook/assets/general.png)
+![New project window and template for a Strategy](../.gitbook/assets/image%20%2815%29.png)
 
 You will get generated code with a few empty functions:
 
