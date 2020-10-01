@@ -30,7 +30,7 @@ Click "**Download**". Visual Studio will ask you for restarting to finish the ex
 
 To check whether OptimusFLOW Algo is installed successfully click "_**File -&gt; New -&gt; Project**_" menu item, type "Indicator" and you will see special project type for blank indicator:
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Now everything is ready to [create your first indicator](simple-indicator.md).
 
